@@ -69,7 +69,7 @@ img.image{
 .title2{
   text-align:center;
   color:black;
-  padding:0.8vh;
+  padding:2vh;
   font-family:"Comic Sans MS", cursive, sans-serif;
 }
 .sub2{
@@ -80,18 +80,21 @@ img.image{
   
 .cece{
   color:black;
-  font-size:3.2vh; 
+  font-size:3.0vw; 
   margin-left:2vw;
 }
 .d{
   margin-left:4.2vw;
-  font-size:2.4vh;
+  font-size:2.2vw;
   color:white;
 }
 
 .ce{
   color:black;
-  margin-left:2vw
+  margin-left:2vw;
+  font-size:3.4vw;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  
 }
 .last{
   background-color:black;
@@ -102,4 +105,9 @@ img.image{
   margin-left:2vw;
   padding-bottom:1.2vh;  
   padding-top:0.4vh;  
+}
+.null{
+  background-color:white;
+  border-width:1vw;
+  border-style:inset
 }
