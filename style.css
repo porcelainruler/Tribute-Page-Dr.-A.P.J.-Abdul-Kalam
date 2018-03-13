@@ -1,0 +1,105 @@
+body {
+  background-color: black;
+}
+ h1 {
+    font-family: Lobster, Monospace;
+  }
+.loft {
+  text-align:center;
+  font-family: "Times New Roman", Times, serif;
+  font-size:4.2vw;
+  color:red;
+}
+.main{
+  width: 90%;
+  margin-left:auto;
+  margin-right:auto;
+  color:grey;
+}
+.submain{
+}
+
+.image1{
+  width:80%;
+  margin:15px auto 15px auto;
+  padding-bottom:1vh;
+}
+.text1 {
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  text-align:right;
+  font-size:1.5vw;
+}
+.dream{
+  
+}
+.fun{
+  font-size:15px;
+  text-align:center;
+}
+img.image{
+  width:100%;
+  border-color:white;
+  border-width: 10px;
+  border-radius:20px;
+  border-style: solid;
+  align:center;
+  image-height:100%;
+  image-width:100%;
+}
+.title1{
+  color: black;
+  border-width: 10px;
+  border-color:blue;
+  background-color:#ff9933;
+  padding:5px;
+  
+}
+.Second{
+  background-color:grey;
+  margin-top:40vw;
+}
+.a{
+  color:black;
+  font-size:2.5vw;
+}
+.b{
+  font-size:2.0vw;
+  color:white;
+}
+.title2{
+  text-align:center;
+  color:black;
+  padding:0.8vh;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+}
+.sub2{
+   background-color:rgb(70,255,70);
+   margin-top:10px;
+   margin-bottom:10px;
+}
+  
+.cece{
+  color:black;
+  font-size:3.2vh; 
+  margin-left:2vw;
+}
+.d{
+  margin-left:4.2vw;
+  font-size:2.4vh;
+  color:white;
+}
+
+.ce{
+  color:black;
+  margin-left:2vw
+}
+.last{
+  background-color:black;
+}
+.sublast{
+ font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size:4vw;
+  margin-left:2vw;
+  padding-bottom:1.2vh;  
+  padding-top:0.4vh;  
+}
